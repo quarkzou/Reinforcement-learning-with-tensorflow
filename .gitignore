@@ -2,3 +2,4 @@
 contents/5.1_Double_DQN/__pycache__
 report.txt
 contents/5.1_Double_DQN/logs
+*.pyc
